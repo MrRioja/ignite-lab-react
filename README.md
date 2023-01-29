@@ -31,7 +31,23 @@ Ocorreu do dia 20 ao dia 27 de Junho de 2022 e teve como intuito mostrar na prá
 
 ## Ignite Lab - React
 
-🚧 **_Em construção_** 🚧
+Plataforma de evento construída durante o Ignite Lab utilizando ReactJS, GraphCMS e GraphQL.
+
+O projeto consiste em quase um clone da plataforma de eventos da Rocketseat. O projeto em si é bem simples foi o foco maior foi em conceitos importantes de frontend, integração com CMS e APIs GraphQL.
+
+Vamos conhecer o projeto começando pela tela abaixo onde os usuários da plataforma realiza a sua inscrição no evento atual, para isso basta informar o nome completo e um e-mail:
+
+![Tela de login](.github/login-screen.png)
+
+Feito isso, o usuário será cadastrado como um subscribe da plataforma e terá seu acesso liberado às aulas. Ao realizar o login ele irá se deparar com aulas liberadas e aulas que serão liberadas futuramente, conforme podemos ver abaixo:
+
+![Tela do evento](.github/event-screen.png)
+
+Em resumo, essa é a aplicação. Poucas funcionalidades porém extremamente usual e simples. As features implementadas são poucas porém são semelhantes à plataforma real de eventos da Rocket. 🙃
+
+Para ilustrar a aplicação em funcionamento, deixo abaixo um GIF onde navego pela aplicação:
+
+![Demo da plataforma](.github/demo.gif)
 
 ## Instalação
 
